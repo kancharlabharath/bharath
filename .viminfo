@@ -8,8 +8,8 @@
 # hlsearch on (H) or off (h):
 ~H
 # Command Line History (newest to oldest):
-:q
 :wq
+:q
 
 # Search String History (newest to oldest):
 
@@ -24,12 +24,51 @@
 	w
 
 # File marks:
-'0  1  0  /etc/yum.repos.d/redhat.repo
-'1  5  21  /etc/yum.repos.d/local.repo
-'2  11  0  /etc/fstab
-'3  1  0  /home/bharath/file
+'0  1  39  ~/githubpassword
+'1  1  0  /etc/yum.repos.d/redhat.repo
+'2  5  21  /etc/yum.repos.d/local.repo
+'3  11  0  /etc/fstab
+'4  1  0  /home/bharath/file
 
 # Jumplist (newest first):
+-'  1  39  ~/githubpassword
+-'  1  0  /etc/yum.repos.d/redhat.repo
+-'  5  21  /etc/yum.repos.d/local.repo
+-'  1  0  /etc/yum.repos.d/local.repo
+-'  11  0  /etc/fstab
+-'  1  0  /etc/fstab
+-'  1  0  /home/bharath/file
+-'  1  0  /home/bharath/file
+-'  11  0  /etc/fstab
+-'  1  0  /etc/fstab
+-'  1  0  /home/bharath/file
+-'  1  0  /home/bharath/file
+-'  11  0  /etc/fstab
+-'  1  0  /etc/fstab
+-'  1  0  /home/bharath/file
+-'  1  0  /home/bharath/file
+-'  11  0  /etc/fstab
+-'  1  0  /etc/fstab
+-'  1  0  /home/bharath/file
+-'  1  0  /home/bharath/file
+-'  5  21  /etc/yum.repos.d/local.repo
+-'  1  0  /etc/yum.repos.d/local.repo
+-'  11  0  /etc/fstab
+-'  1  0  /etc/fstab
+-'  1  0  /home/bharath/file
+-'  1  0  /home/bharath/file
+-'  11  0  /etc/fstab
+-'  1  0  /etc/fstab
+-'  1  0  /home/bharath/file
+-'  1  0  /home/bharath/file
+-'  11  0  /etc/fstab
+-'  1  0  /etc/fstab
+-'  1  0  /home/bharath/file
+-'  1  0  /home/bharath/file
+-'  11  0  /etc/fstab
+-'  1  0  /etc/fstab
+-'  1  0  /home/bharath/file
+-'  1  0  /home/bharath/file
 -'  1  0  /etc/yum.repos.d/redhat.repo
 -'  5  21  /etc/yum.repos.d/local.repo
 -'  1  0  /etc/yum.repos.d/local.repo
@@ -69,6 +108,12 @@
 -'  1  0  /home/bharath/file
 
 # History of marks within files (newest to oldest):
+
+> ~/githubpassword
+	"	1	39
+	^	1	40
+	.	1	35
+	+	1	35
 
 > /etc/yum.repos.d/redhat.repo
 	"	1	0
